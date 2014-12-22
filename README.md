@@ -36,11 +36,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The censure and iudgement of the famous clark Erasmus of Roterodam: whyther dyuorsemente betwene man
+
+1. Nycolas Lesse, to the reader.
+
 #####Body#####
-The censure and iudgement of the famous clark Erasmus of Roterodam: whyther dyuorsemente betwene man
+
+1. Whyther dyuorsemente doth stande with the lawe of God, or naye.
+
+1. ¶ The Censure of Ihon Brentius in his treatise vppon the cases whiche are concerning matrimony▪ whose wordes are these folowynge, as they are wrytten in his boke.
+
+1. Henry Bullynger.
+
 #####Back#####
-The censure and iudgement of the famous clark Erasmus of Roterodam: whyther dyuorsemente betwene man
+Prynted at London in Aldersgate strete, by the wydowe of Ihon Herforde, for Robert Stoughton, dwelly
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
